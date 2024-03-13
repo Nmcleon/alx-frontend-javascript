@@ -65,15 +65,5 @@ npm run dev <task-file>.js
 
 Replace `<task-file>` with the filename of the task you wish to run (e.g., `0-main.js`, `1-main.js`, etc.).
 
----
-
-Citations:
-[1] https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d
-[2] https://www.freecodecamp.org/news/javascript-map-reduce-and-filter-explained-with-examples/
-[3] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
-[4] https://stackoverflow.com/questions/33234666/how-to-map-reduce-filter-a-set-in-javascript
-[5] https://www.freecodecamp.org/news/map-filter-reduce-in-javascript/
-[6] https://www.geeksforgeeks.org/how-to-map-reduce-and-filter-a-set-element-using-javascript/
-[7] https://towardsdatascience.com/write-beautiful-javascript-with-%CE%BB-fp-es6-350cd64ab5bf
-[8] https://www.digitalocean.com/community/tutorials/list-processing-with-map-filter-and-reduce
-[9] https://greasyfork.org/pl/scripts/6303-iciba%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91/code
+---                   
+  
