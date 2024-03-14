@@ -23,7 +23,7 @@ console.log(teacher1);
 
 const director1: Directors = {
     firstName: 'John',
-    lastName: 'Lemon',
+    lastName: 'Doe',
     location: 'London',
     fullTimeEmployee: true,
     numberOfReports: 17,
@@ -37,7 +37,7 @@ interface printTeacherFunction {
 
 export const printTeacher: printTeacherFunction = (firstName: string, lastName: string): string => `${firstName[0]}. ${lastName}`;
 
-console.log(printTeacher('john', 'doe'));
+console.log(printTeacher('John', 'Doe'));
 
 interface StudentClassInterface {
     firstName: string;
